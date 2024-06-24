@@ -33,24 +33,23 @@ Adds a new country to the list. Validates the data before adding.
 1. Clone the repository:
 
    ```sh
-   git@github.com:neto112/country-info-app.git
-
+git@github.com:neto112/country-info-app.git
    ```
 
 2. Navigate to the backend directory:
 
 ```
-   cd country-info-app/backend
+cd country-info-app/backend
 ```
 
 3. Install the dependencies:
 
 ```
-   npm install
+npm install
 ```
 
 4. Start the server:
 
 ```
-   node src/server.js
+node src/server.js
 ```
